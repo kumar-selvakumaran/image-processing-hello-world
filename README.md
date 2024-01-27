@@ -16,7 +16,7 @@ Steps:
 - Follow this tutorial to get the docker image up and running. : <a href="https://firstcaptain.github.io/opencv-docker/">tutorial link</a>
 - Follow this tutorial to setup a http stream for your webcam. : <a href="https://www.youtube.com/watch?v=HuzXh-Xcgyk&t=7s"> tutorial link </a> The changes in this pull request has to be made <a href="https://github.com/freedomwebtech/webcaminnetwork/pull/1">. PR link </a>. 
 
-## contents
+## contents:
 
 - colour to grayscale function OpenCV.
 - Custom colour to grayscale function.
