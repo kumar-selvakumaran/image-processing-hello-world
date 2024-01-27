@@ -34,3 +34,7 @@ Steps:
 - Detect faces in the video stream and convert the background to grayscale.
 - Make negative.
 - Cartoonize the video feed. (Comic style) (Increase saturation + Bilateral filtering + Canny edges + contour detection and drawing).
+
+## Sample outputs
+![Alt text](./imgs/demo_img.png)
+
