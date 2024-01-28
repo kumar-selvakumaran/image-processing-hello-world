@@ -40,9 +40,9 @@ Steps:
 
 ## references
 
-[1] <a href="https://www.learncpp.com/">https://www.learncpp.com/</a>.
-[2] <a href="https://docs.opencv.org/4.x/modules.html">OpenCV Documentation</a>.
-[3] <a href="https://cs.colby.edu/maxwell/courses/tutorials/maketutor/">Makefile tutorial</a>.
-[4] Winnemoeller. H., Real-time video abstraction., ACM Transactions on Graphics., July 2006.
-[5] <a href="https://firstcaptain.github.io/opencv-docker/">Docker image</a>.
-[6] <a href="https://github.com/freedomwebtech/webcaminnetwork">http stream of webcam</a>.
+[1] <a href="https://www.learncpp.com/">https://www.learncpp.com/</a>.\
+[2] <a href="https://docs.opencv.org/4.x/modules.html">OpenCV Documentation</a>.\
+[3] <a href="https://cs.colby.edu/maxwell/courses/tutorials/maketutor/">Makefile tutorial</a>.\
+[4] Winnemoeller. H., Real-time video abstraction., ACM Transactions on Graphics., July 2006.\
+[5] <a href="https://firstcaptain.github.io/opencv-docker/">Docker image</a>.\
+[6] <a href="https://github.com/freedomwebtech/webcaminnetwork">http stream of webcam</a>.\
