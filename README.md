@@ -45,4 +45,4 @@ Steps:
 [3] <a href="https://cs.colby.edu/maxwell/courses/tutorials/maketutor/">Makefile tutorial</a>.\
 [4] Winnemoeller. H., Real-time video abstraction., ACM Transactions on Graphics., July 2006.\
 [5] <a href="https://firstcaptain.github.io/opencv-docker/">Docker image</a>.\
-[6] <a href="https://github.com/freedomwebtech/webcaminnetwork">http stream of webcam</a>.\
+[6] <a href="https://github.com/freedomwebtech/webcaminnetwork">http stream of webcam</a>
